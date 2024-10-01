@@ -46,7 +46,9 @@ The model accurately predicted student outcomes and identified key factors influ
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the project in Jupyter Notebook.
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
 
 ## License
 This project is licensed under the MIT License.
